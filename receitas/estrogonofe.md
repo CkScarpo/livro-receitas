@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chicken:
+# Estrogonofe de Frango :chicken:
 
 ### INGREDIENTES
  - 500 g de peito de frango cortados em cubos
